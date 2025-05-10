@@ -4,6 +4,36 @@
 
 Este repositório hospeda o projeto **ECOWALL**, uma aplicação web desenvolvida em **HTML, CSS e JavaScript** como parte do Projeto Integrado da Universidade **CESUPA** (Pará). O objetivo é promover a sustentabilidade urbana em Belém, utilizando paredes modulares ecológicas para valorização de monumentos e combate à desarborização.
 
+## 🖼️ Demonstrações
+
+### Tela de Login
+
+![Tela de Login](images/Tela%20de%20Login.png)
+
+### Tela de Início
+
+![Tela de Login](images/Tela%20de%20Início.png)
+
+### Tela de Detalhes das Plantas
+
+![Tela de Login](images/Tela%20de%20Detalhes%20das%20Plantas.png)
+
+### Tela de Configurações pt1.
+
+![Tela de Configurações](images/Tela%20de%20Configurações%201.png)
+
+### Tela de Configurações pt2.
+
+![Tela de Configurações](images/Tela%20de%20Configurações%202.png)
+
+---
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
 ---
 
 ## 💡 Objetivo do Projeto
