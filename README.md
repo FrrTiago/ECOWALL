@@ -12,7 +12,7 @@ Este repositório hospeda o projeto **ECOWALL**, uma aplicação web desenvolvid
 
 ### Tela de Início
 
-![Tela de Login](images/Tela%20de%20Início.png)
+![Tela de Início](images/Tela%20de%20Início.png)
 
 ### Tela de Detalhes das Plantas
 
@@ -20,11 +20,11 @@ Este repositório hospeda o projeto **ECOWALL**, uma aplicação web desenvolvid
 
 ### Tela de Configurações pt1.
 
-![Tela de Configurações](images/Tela%20de%20Configurações%201.png)
+![Tela de Configurações 1](images/Tela%20de%20Configurações%201.png)
 
 ### Tela de Configurações pt2.
 
-![Tela de Configurações](images/Tela%20de%20Configurações%202.png)
+![Tela de Configurações 2](images/Tela%20de%20Configurações%202.png)
 
 ---
 
